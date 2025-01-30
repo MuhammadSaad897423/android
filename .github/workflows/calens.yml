@@ -31,3 +31,4 @@ jobs:
         with:
           commit_message: "docs: calens changelog updated"
           file_pattern: CHANGELOG.md
+- name: Run Calens Docker.fix
